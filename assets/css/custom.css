@@ -1,0 +1,38 @@
+.section-data .myDD{
+    background-image: url("../img/so-white.png");
+}
+
+body{
+    background: url("../img/so-white.png");
+}
+
+/*shadowNav*/
+.navsection{
+    box-shadow: 0px 0px 10px 0px;
+
+}
+
+
+.english{
+    font-family: Cambria,Arial,SansSerif;
+}
+
+.bigTitle{
+    font-family: "Apple Chancery";
+}
+.myQuote{
+    font-family: Zawgyi-One,SansSerif;
+    font-style: italic;
+    font-size: 14px;
+    text-indent: 30px;
+}
+
+.moveButton{
+    margin-top: 3cm;
+}
+
+.myCard{
+    background: #000;
+}
+
+
